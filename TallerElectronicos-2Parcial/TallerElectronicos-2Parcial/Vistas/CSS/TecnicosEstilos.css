@@ -1,0 +1,134 @@
+﻿body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e6f2ff;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+form {
+    width: 60%;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #2c3e50;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    color: #f9fbfd;
+    margin-bottom: 30px;
+}
+
+.inicio-link {
+    display: inline-block; 
+    color: #ffffff; 
+    background-color: #1a73e8;
+    text-decoration: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    font-size: 16px; 
+    font-family: Arial, sans-serif; 
+    transition: background-color 0.3s ease; 
+}
+
+    .inicio-link:hover {
+        background-color: #1558b5; 
+        color: #e0e0e0; 
+    }
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    display: block;
+    color: #e6f7ff;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 2px solid #2c3e50;
+    border-radius: 5px;
+    background-color: #f4f9ff;
+    color: #333;
+    margin-bottom: 10px;
+    transition: border-color 0.3s ease;
+}
+
+    input[type="text"]:focus {
+        border-color: #ffcc00;
+        outline: none;
+    }
+
+input[type="button"], .aspButton {
+    background-color: #2c3e50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 15px;
+    transition: background-color 0.3s ease;
+}
+
+    input[type="button"]:hover, .aspButton:hover {
+        background-color: #2c3e50;
+    }
+
+
+.aspGridView {
+    width: 95%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #f9fbfd;
+}
+
+    .aspGridView th, .aspGridView td {
+        border: 1px solid #007acc;
+        padding: 15px 20px;
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .aspGridView th {
+        background-color: #2c3e50;
+        color: #f4f9ff;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+    .aspGridView tr:nth-child(even) {
+        background-color: #e6f2ff;
+    }
+
+    .aspGridView tr:nth-child(odd) {
+        background-color: #ffffff;
+    }
+
+    .aspGridView tr:hover {
+        background-color: #cce0ff;
+        cursor: pointer;
+    }
+
+    .aspGridView td {
+        color: #333;
+    }
+
+    .aspGridView .emptyRow td {
+        text-align: center;
+        color: #777;
+    }

@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana11-segundo-parcial\\parcial 2\\tallerelectronicos-2parcial\\tallerelectronicos-2parcial\\vistas\\css\\inicioestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\css\\inicioestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana11-segundo-parcial\\parcial 2\\tallerelectronicos-2parcial\\tallerelectronicos-2parcial\\vistas\\css\\equiposestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\css\\equiposestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana11-segundo-parcial\\parcial 2\\tallerelectronicos-2parcial\\tallerelectronicos-2parcial\\vistas\\css\\detallereparacionesestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\css\\detallereparacionesestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana11-segundo-parcial\\parcial 2\\tallerelectronicos-2parcial\\tallerelectronicos-2parcial\\vistas\\css\\asignacionesestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\css\\asignacionesestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capamodelo\\clstecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capamodelo\\clstecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\vistas\\pagequipos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagequipos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana11-segundo-parcial\\parcial 2\\tallerelectronicos-2parcial\\tallerelectronicos-2parcial\\vistas\\css\\tecnicosestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\css\\tecnicosestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana11-segundo-parcial\\parcial 2\\tallerelectronicos-2parcial\\tallerelectronicos-2parcial\\vistas\\css\\usuariosestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\css\\usuariosestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana11-segundo-parcial\\parcial 2\\tallerelectronicos-2parcial\\tallerelectronicos-2parcial\\vistas\\css\\reparacionesestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\css\\reparacionesestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\vistas\\pagasignaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagasignaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\vistas\\pagdetallereparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagdetallereparacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\vistas\\pagreparaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagreparaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\vistas\\pagtecnicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagtecnicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\vistas\\pagusuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagusuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\vistas\\paginicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\paginicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capalogica\\reparacioneslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capalogica\\reparacioneslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capalogica\\detallereparacionlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capalogica\\detallereparacionlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capalogica\\tecnicoslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capalogica\\tecnicoslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\vistas\\pagreparaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagreparaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\vistas\\pagequipos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagequipos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capalogica\\equiposlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capalogica\\equiposlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana11-segundo-parcial\\parcial 2\\tallerelectronicos-2parcial\\tallerelectronicos-2parcial\\vistas\\pagusuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagusuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capalogica\\usuarioslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capalogica\\usuarioslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capamodelo\\clsusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capamodelo\\clsusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\vistas\\pagtecnicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagtecnicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capamodelo\\clsreparaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capamodelo\\clsreparaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|c:\\users\\keany\\programacion ii c# visual studio\\semana11-segundo-parcial\\parcial 2\\tallerelectronicos-2parcial\\tallerelectronicos-2parcial\\vistas\\pagdetallereparacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagdetallereparacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\vistas\\pagasignaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\vistas\\pagasignaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capalogica\\asignacioneslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capalogica\\asignacioneslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capamodelo\\clsasignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capamodelo\\clsasignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capamodelo\\clsdetallereparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capamodelo\\clsdetallereparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capamodelo\\clsequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capamodelo\\clsequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\tallerelectronicos-2parcial\\capalogica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5C23BC-862C-4216-A8A1-2DBAA9F18083}|TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial.csproj|solutionrelative:tallerelectronicos-2parcial\\capalogica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsignacionesEstilos.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\AsignacionesEstilos.css",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\CSS\\AsignacionesEstilos.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\AsignacionesEstilos.css",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\CSS\\AsignacionesEstilos.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T17:29:45.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReparacionesEstilos.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\ReparacionesEstilos.css",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\CSS\\ReparacionesEstilos.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\ReparacionesEstilos.css",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\CSS\\ReparacionesEstilos.css",
+              "ViewState": "AgIAAHYAAAAAJnbBDFj7vxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T16:46:43.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagEquipos.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagEquipos.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagEquipos.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagEquipos.aspx",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagEquipos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T17:12:46.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EquiposEstilos.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\EquiposEstilos.css",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\CSS\\EquiposEstilos.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\EquiposEstilos.css",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\CSS\\EquiposEstilos.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T16:35:02.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsTecnicos.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsTecnicos.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaModelo\\ClsTecnicos.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsTecnicos.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaModelo\\ClsTecnicos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:56:33.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleReparacionesEstilos.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\DetalleReparacionesEstilos.css",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\CSS\\DetalleReparacionesEstilos.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\DetalleReparacionesEstilos.css",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\CSS\\DetalleReparacionesEstilos.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T17:27:52.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InicioEstilos.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\InicioEstilos.css",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\CSS\\InicioEstilos.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\InicioEstilos.css",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\CSS\\InicioEstilos.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T15:40:21.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TecnicosEstilos.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\TecnicosEstilos.css",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\CSS\\TecnicosEstilos.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\TecnicosEstilos.css",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\CSS\\TecnicosEstilos.css",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T17:24:49.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuariosEstilos.css",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\UsuariosEstilos.css",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\CSS\\UsuariosEstilos.css",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\CSS\\UsuariosEstilos.css",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\CSS\\UsuariosEstilos.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T16:07:56.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PagAsignaciones.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagAsignaciones.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagAsignaciones.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagAsignaciones.aspx",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagAsignaciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-25T01:46:35.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PagDetalleReparacion.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagDetalleReparacion.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagDetalleReparacion.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagDetalleReparacion.aspx",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagDetalleReparacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T23:06:26.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PagReparaciones.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagReparaciones.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagReparaciones.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagReparaciones.aspx",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagReparaciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T22:32:32.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagTecnicos.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagTecnicos.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagTecnicos.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagTecnicos.aspx",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagTecnicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-25T00:50:29.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagUsuarios.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagUsuarios.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagUsuarios.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagUsuarios.aspx",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagUsuarios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T11:38:51.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PagInicio.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagInicio.aspx",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagInicio.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagInicio.aspx",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagInicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T11:38:02.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetalleReparacionLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\DetalleReparacionLogica.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaLogica\\DetalleReparacionLogica.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\DetalleReparacionLogica.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaLogica\\DetalleReparacionLogica.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvy0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:11:12.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TecnicosLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\TecnicosLogica.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaLogica\\TecnicosLogica.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\TecnicosLogica.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaLogica\\TecnicosLogica.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:57:39.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReparacionesLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\ReparacionesLogica.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaLogica\\ReparacionesLogica.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\ReparacionesLogica.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaLogica\\ReparacionesLogica.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwBQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:38:42.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PagReparaciones.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagReparaciones.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagReparaciones.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagReparaciones.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagReparaciones.aspx.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:46:05.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PagTecnicos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagTecnicos.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagTecnicos.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagTecnicos.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagTecnicos.aspx.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:07:00.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PagEquipos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagEquipos.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagEquipos.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagEquipos.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagEquipos.aspx.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwGQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:19:28.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EquiposLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\EquiposLogica.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaLogica\\EquiposLogica.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\EquiposLogica.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaLogica\\EquiposLogica.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAEwCAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:20:30.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClsUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsUsuarios.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaModelo\\ClsUsuarios.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsUsuarios.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaModelo\\ClsUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:48:39.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuariosLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\UsuariosLogica.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaLogica\\UsuariosLogica.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\UsuariosLogica.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaLogica\\UsuariosLogica.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAMwDUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:39:06.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PagUsuarios.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagUsuarios.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagUsuarios.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagUsuarios.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagUsuarios.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:42:58.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClsReparaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsReparaciones.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaModelo\\ClsReparaciones.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsReparaciones.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaModelo\\ClsReparaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:36:34.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PagDetalleReparacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagDetalleReparacion.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagDetalleReparacion.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagDetalleReparacion.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagDetalleReparacion.aspx.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:01:35.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PagAsignaciones.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagAsignaciones.aspx.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Vistas\\PagAsignaciones.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Vistas\\PagAsignaciones.aspx.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Vistas\\PagAsignaciones.aspx.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv08AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:01:39.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AsignacionesLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\AsignacionesLogica.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaLogica\\AsignacionesLogica.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\AsignacionesLogica.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaLogica\\AsignacionesLogica.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwFsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:54:17.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClsAsignaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsAsignaciones.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaModelo\\ClsAsignaciones.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsAsignaciones.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaModelo\\ClsAsignaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:52:48.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClsDetalleReparacion.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsDetalleReparacion.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaModelo\\ClsDetalleReparacion.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsDetalleReparacion.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaModelo\\ClsDetalleReparacion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:09:41.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClsEquipos.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsEquipos.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaModelo\\ClsEquipos.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaModelo\\ClsEquipos.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaModelo\\ClsEquipos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:18:27.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Web.config",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\Web.config",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\Web.config",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-24T11:45:04.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DBconn.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\DBconn.cs",
+              "RelativeDocumentMoniker": "TallerElectronicos-2Parcial\\CapaLogica\\DBconn.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Semana11-Segundo-Parcial\\Parcial 2\\TallerElectronicos-2Parcial\\TallerElectronicos-2Parcial\\CapaLogica\\DBconn.cs",
+              "RelativeToolTip": "TallerElectronicos-2Parcial\\CapaLogica\\DBconn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:34:52.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
